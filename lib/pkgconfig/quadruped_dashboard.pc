@@ -1,0 +1,8 @@
+prefix=/home/user/ContinuO_FP/catkin_ws_fp/devel
+
+Name: quadruped_dashboard
+Description: Description of quadruped_dashboard
+Version: 0.1.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

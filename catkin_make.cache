@@ -1,0 +1,2 @@
+quadruped_control:quadruped_monitoring:quadruped_real
+-DCATKIN_DEVEL_PREFIX=/home/user/ContinuO_FP/catkin_ws_fp/devel -DCMAKE_INSTALL_PREFIX=/home/user/ContinuO_FP/catkin_ws_fp/install -G Unix Makefiles

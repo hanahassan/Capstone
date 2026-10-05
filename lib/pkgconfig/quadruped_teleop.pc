@@ -1,0 +1,8 @@
+prefix=/home/user/ContinuO_FP/catkin_ws_fp/devel
+
+Name: quadruped_teleop
+Description: Description of quadruped_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

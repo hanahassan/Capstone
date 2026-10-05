@@ -1,0 +1,8 @@
+prefix=/home/user/ContinuO_FP/catkin_ws_fp/devel
+
+Name: quadruped_control
+Description: Description of quadruped_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs geometry_msgs sensor_msgs
